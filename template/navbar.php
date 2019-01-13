@@ -20,14 +20,14 @@
                 <li
                     <?php if($pageTitle=='Home'){echo 'class="active"';} ?>
                 ><a href="home.php">About</a></li>
-                <?php if($ifLogin){ ?>
+                
                 <li
                     <?php if($pageTitle=='Dashboard'){echo 'class="active"';} ?>
                 ><a href="dashboard.php">Dashboard</a></li>
                 <li
                     <?php if($pageTitle=='Explore'){echo 'class="active"';} ?>
                 ><a href="explore.php">Explore</a></li>
-                <?php } ?>
+                
             </ul>
 
             <ul class="nav navbar-nav navbar-right" style="height: auto">
