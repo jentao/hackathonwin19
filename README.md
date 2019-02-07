@@ -1,2 +1,2 @@
-home.php is the index page
-Mockup.pdf is a mockup for MentorMe website. 
+home.php is the index page. 
+And Mockup.pdf is a mockup for MentorMe website. 
